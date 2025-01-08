@@ -1,0 +1,155 @@
+{
+  "website_title": "Cat",
+  "icons": {
+
+  },
+  "references": "/references.bib",
+  "pages": {
+    "home": {
+      "avatar": {
+        "init": "/images/avatar_init.jpg",
+        "hovered": "/images/avatar_hover.jpg"
+      },
+      "name": "MMeowhite",
+      "institution": "Sichuan University",
+      "field": "MEDICINE / BIOINFORMATICS / MATHEMATICS / PHYSICS",
+      "profile": "Hello! I'm Baimiaomiao, a researcher and educator at Sichuan University. My expertise lies in medicine, bioinformatics, mathematics, and physics, with a focus on leveraging computational techniques to solve biomedical challenges. Passionate about interdisciplinary research, I aim to bridge the gap between technology and healthcare to drive innovation. Welcome to my website, where I share my work, ideas, and ongoing projects. Let's connect and explore new possibilities together!Hello! I'm Baimiaomiao, a researcher and educator at Sichuan University. My expertise lies in medicine, bioinformatics, mathematics, and physics, with a focus on leveraging computational techniques to solve biomedical challenges. Passionate about interdisciplinary research, I aim to bridge the gap between technology and healthcare to drive innovation. Welcome to my website, where I share my work, ideas, and ongoing projects. Let's connect and explore new possibilities together!Hello! I'm Baimiaomiao, a researcher and educator at Sichuan University. My expertise lies in medicine, bioinformatics, mathematics, and physics, with a focus on leveraging computational techniques to solve biomedical challenges. Passionate about interdisciplinary research, I aim to bridge the gap between technology and healthcare to drive innovation. Welcome to my website, where I share my work, ideas, and ongoing projects. Let's connect and explore new possibilities together!"
+    },
+    "about": {
+      "icons": [
+        "/path/to/icon"
+      ],
+      "widgets": [
+        "path/to/widget1",
+        "path/to/widget2"
+      ],
+      "contents": {
+        "first_paragraph": {
+          "title": [
+            "First_title..."
+          ],
+          "content": [
+            ""
+          ]
+        },
+        "second_paragraph": {
+          "title": [
+            "Second_title..."
+          ],
+          "content": [
+            "Hello, World2"
+          ]
+        },
+        "Third_paragraph": {
+          "title": [
+            "Third_title..."
+          ],
+          "content": [
+            "Hello, World3"
+          ]
+        }
+      }
+    },
+    "skill": {
+      "icons": "",
+      "widgets": ""
+    },
+    "research": {
+      "icons": "",
+      "widgets": ""
+    },
+    "more": {
+      "icons": "",
+      "widgets": ""
+    }
+  },
+  "widgets": {
+    "navbar": {
+      "item1": {
+        "name": "home",
+        "link": "#home"
+      },
+      "item2": {
+        "name": "about",
+        "link": "#about"
+      },
+      "item3": {
+        "name": "skill",
+        "link": "#skill"
+      },
+      "item4": {
+        "name": "contact",
+        "link": "#contact"
+      },
+      "item5": {
+        "name": "research",
+        "link": "#research"
+      }
+    },
+
+    "topNavBar": [
+      {
+        "title": "Welcome To My Home!(Still developing)",
+        "link": [
+          {
+            "name": "Bio",
+            "link": "/"
+          },
+          {
+            "name": "experience",
+            "link": "/"
+          },
+          {
+            "name": "research",
+            "link": "/"
+          },
+          {
+            "name": "publication",
+            "link": "/"
+          },
+          {
+            "name": "blog",
+            "link": "/blog"
+          }
+        ]
+      }
+    ],
+
+    "floatBtn": {
+      "icon": "/path/to/icon"
+    },
+
+    "iconNavComponent": [
+      {
+        "type": "email",
+        "icon": "/images/link_icon/gmail.svg",
+        "link": "mailto:miaopeng@stu.scu.edu.cn"
+      },
+      {
+        "type": "github",
+        "icon": "/images/link_icon/github.svg",
+        "link": "https://github.com/MMeowhite"
+      },
+      {
+        "type": "linkedin",
+        "icon": "/images/link_icon/linkedin.svg",
+        "link": "https://www.linkedin.com/in/peng-miao-89324a341/"
+      },
+      {
+        "type": "google_scholar",
+        "icon": "/images/link_icon/googlescholar.svg",
+        "link": "https://scholar.google.com/citations?user=Y5lz1jMAAAAJ&hl=en"
+      },
+      {
+        "type": "youtube",
+        "icon": "/images/link_icon/youtube.svg",
+        "link": "https://www.youtube.com/@pengmiao-bmm"
+      },
+      {
+        "type": "bluesky",
+        "icon": "/images/link_icon/bluesky.svg",
+        "link": "https://bsky.app/profile/mmeowhite.bsky.social"
+      }
+    ]
+  }
+}
