@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[396],{24396:(e,s,i)=>{e.exports=i.p+"static/media/basic_properties.717ab62826676c4313ad.ipynb"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[773],{97773:(e,s,c)=>{e.exports=c.p+"static/media/config.16cecfd15026279de597.yaml"}}]);

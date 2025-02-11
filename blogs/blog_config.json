@@ -1,0 +1,51 @@
+{
+  "blogRootDirectory": "/blogs",
+  "blogContentParentDirectory": "/blogs/resources",
+  "blogsContentConfig": [
+    {
+      "id": 1,
+      "content": "/blogs/resources/2024_11.md",
+      "author": "MMeowhite",
+      "location": "Palo Alto, United States",
+      "updateTime": "Oct 27, 2023",
+      "references": [
+        {"1": "https://www.technologynetworks.com/genomics/articles/understanding-single-cell-sequencing-how-it-works-and-its-applications-357578"},
+        {"2": "https://web.genewiz.com/single-cell-faq"},
+        {"3": "https://www.nature.com/articles/s41596-020-00409-w"},
+        {"4": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8964935/"},
+        {"5": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10417635/"},
+        {"6": "https://help.geneiousbiologics.com/hc/en-us/articles/4781289585300-Understanding-Single-Cell-technologies-Barcodes-and-UMIs"}
+      ]
+    },
+    {
+      "id": 2,
+      "content": "/blogs/resources/2024_11.md",
+      "author": "MMeowhite",
+      "location": "Palo Alto, United States",
+      "updateTime": "Oct 28, 2023",
+      "references": [
+        {"1": "https://www.technologynetworks.com/genomics/articles/understanding-single-cell-sequencing-how-it-works-and-its-applications-357578"},
+        {"2": "https://web.genewiz.com/single-cell-faq"},
+        {"3": "https://www.nature.com/articles/s41596-020-00409-w"},
+        {"4": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8964935/"},
+        {"5": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10417635/"},
+        {"6": "https://help.geneiousbiologics.com/hc/en-us/articles/4781289585300-Understanding-Single-Cell-technologies-Barcodes-and-UMIs"}
+      ]
+    },
+    {
+      "id": 3,
+      "content": "/blogs/resources/2024_11.md",
+      "author": "MMeowhite",
+      "location": "Palo Alto, United States",
+      "updateTime": "Oct 29, 2023",
+      "references": {
+        "1": "https://www.technologynetworks.com/genomics/articles/understanding-single-cell-sequencing-how-it-works-and-its-applications-357578",
+        "2": "https://web.genewiz.com/single-cell-faq",
+        "3": "https://www.nature.com/articles/s41596-020-00409-w",
+        "4": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8964935/",
+        "5": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10417635/",
+        "6": "https://help.geneiousbiologics.com/hc/en-us/articles/4781289585300-Understanding-Single-Cell-technologies-Barcodes-and-UMIs"
+      }
+    }
+  ]
+}

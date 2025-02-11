@@ -1,8 +1,6 @@
 {
   "website_title": "Cat",
-  "icons": {
-
-  },
+  "markdown": "/2024_11.md",
   "references": "/references.bib",
   "pages": {
     "home": {
@@ -12,112 +10,386 @@
       },
       "name": "MMeowhite",
       "institution": "Sichuan University",
-      "field": "MEDICINE / BIOINFORMATICS / MATHEMATICS / PHYSICS",
-      "profile": "Hello! I'm Baimiaomiao, a researcher and educator at Sichuan University. My expertise lies in medicine, bioinformatics, mathematics, and physics, with a focus on leveraging computational techniques to solve biomedical challenges. Passionate about interdisciplinary research, I aim to bridge the gap between technology and healthcare to drive innovation. Welcome to my website, where I share my work, ideas, and ongoing projects. Let's connect and explore new possibilities together!Hello! I'm Baimiaomiao, a researcher and educator at Sichuan University. My expertise lies in medicine, bioinformatics, mathematics, and physics, with a focus on leveraging computational techniques to solve biomedical challenges. Passionate about interdisciplinary research, I aim to bridge the gap between technology and healthcare to drive innovation. Welcome to my website, where I share my work, ideas, and ongoing projects. Let's connect and explore new possibilities together!Hello! I'm Baimiaomiao, a researcher and educator at Sichuan University. My expertise lies in medicine, bioinformatics, mathematics, and physics, with a focus on leveraging computational techniques to solve biomedical challenges. Passionate about interdisciplinary research, I aim to bridge the gap between technology and healthcare to drive innovation. Welcome to my website, where I share my work, ideas, and ongoing projects. Let's connect and explore new possibilities together!"
-    },
-    "about": {
-      "icons": [
-        "/path/to/icon"
-      ],
-      "widgets": [
-        "path/to/widget1",
-        "path/to/widget2"
-      ],
-      "contents": {
-        "first_paragraph": {
-          "title": [
-            "First_title..."
+      "field": "MEDICINE / COMPUTER SCIENCE / MATHEMATICS / PHYSICS",
+      "profile": "Hello! I'm Baimiaomiao, a researcher and educator at Sichuan University. My expertise lies in medicine, bioinformatics, mathematics, and physics, with a focus on leveraging computational techniques to solve biomedical challenges. Passionate about interdisciplinary research, I aim to bridge the gap between technology and healthcare to drive innovation. Welcome to my website, where I share my work, ideas, and ongoing projects. Let's connect and explore new possibilities together!Hello! I'm Baimiaomiao, a researcher and educator at Sichuan University. My expertise lies in medicine, bioinformatics, mathematics, and physics, with a focus on leveraging computational techniques to solve biomedical challenges. Passionate about interdisciplinary research, I aim to bridge the gap between technology and healthcare to drive innovation. Welcome to my website, where I share my work, ideas, and ongoing projects. Let's connect and explore new possibilities together!Hello! I'm Baimiaomiao, a researcher and educator at Sichuan University. My expertise lies in medicine, bioinformatics, mathematics, and physics, with a focus on leveraging computational techniques to solve biomedical challenges. Passionate about interdisciplinary research, I aim to bridge the gap between technology and healthcare to drive innovation. Welcome to my website, where I share my work, ideas, and ongoing projects. Let's connect and explore new possibilities together!",
+      "quote": "What hinders learning is absolutely not the difficulty of the knowledge itself, but the unreasonable design of the learning gradient and the lack of prerequisite knowledge.",
+      "experienceSection": {
+        "title": "Education",
+        "edu": [
+          {
+            "period": "2018.09-2023.06",
+            "university": "Chongqing Medical University",
+            "logo": "/images/experience/ChongqingMedicalUniversity.jpg",
+            "url": "https://www.scu.edu.cn",
+            "degree": "Bachelor in Clinical Medicine (Direction: Radiology)",
+            "gpa": "3.6 / 5.0",
+            "course": "Medical Imaging and Diagnostic Radiology, Ultrasound Diagnostics, Interventional Radiology, Nuclear Medicine, Internal Medicine, Surgery, Obstetrics and Gynecology, Pediatrics, Physiology, Biochemistry and Molecular Biology, Pathology, Immunology, and Cell Biology",
+            "additionalCourse": "Math"
+          },
+          {
+            "period": "2023.07-Present",
+            "logo": "/images/experience/SichuanUniversity.jpg",
+            "url": "https://www.cqmu.edu.cn",
+            "university": "Sichuan University",
+            "degree": "Master in Basic Medicine (Direction: Biochemistry and Molecular Biology )",
+            "gpa": "3.6 / 4.0",
+            "course": "The Basic Cellular and Molecular Principles of Pathogenesis, Medical Molecular Biology, Medicinal Biotechnology Frontier, Seperation and Purification Technology of Protein and Enzyme, Nucleic Acid Molecular Cloning Technique, Practical Histological Technique",
+            "additionalCourse": "Physics"
+          }
+        ],
+        "timeline": [
+          {
+            "id": "one",
+            "year": "1280",
+            "color": "#2c3e50",
+            "percentage": 20,
+            "content": "Content for 1280"
+          },
+          {
+            "id": "two",
+            "year": "1649",
+            "color": "#e74c3c",
+            "percentage": 40,
+            "content": "Content for 1649"
+          },
+          {
+            "id": "three",
+            "year": "1831",
+            "color": "#7b3",
+            "percentage": 60,
+            "content": "Content for 1831"
+          },
+          {
+            "id": "four",
+            "year": "1992",
+            "color": "#20638f",
+            "percentage": 80,
+            "content": "Hello! I'm Baimiaomiao, a researcher and educator at Sichuan University. My expertise lies in medicine, bioinformatics, mathematics, and physics, with a focus on leveraging computational techniques to solve biomedical challenges. Passionate about interdisciplinary research, I aim to bridge the gap between technology and healthcare to drive innovation. Welcome to my website, where I share my work, ideas, and ongoing projects. Let's connect and explore new possibilities together!Hello! I'm Baimiaomiao, a researcher and educator at Sichuan University. "
+          },
+          {
+            "id": "six",
+            "year": "2025",
+            "color": "#20638f",
+            "percentage": 90,
+            "content": "Content for 2025"
+          },
+          {
+            "id": "seven",
+            "year": "2025",
+            "color": "#20638f",
+            "percentage": 120,
+            "content": "Content for 2025"
+          },
+          {
+            "id": "eight",
+            "year": "2025",
+            "color": "#20638f",
+            "percentage": 150,
+            "content": "Content for 2025"
+          }
+        ]
+      },
+      "featuredPublications": [
+        {
+          "authors": " Mengmeng Zhang, Xiangru Kong, Jing Chen, Wenqin Liu, Can Liu, Xiaoyun Dou, Lin Jiang, Yanmin Luo, Mingrui Song, Peng Miao, Yong Tang, Yun Xiu ",
+          "date": "July 1, 2023",
+          "journal": "Journal of Affective Disorders",
+          "featuredImages": [
+            {
+              "src": "/images/featuredImages/img.png",
+              "caption": "Lorem ipsum dolor sit amet, consectetur adipiscing elit-1.",
+              "link": "https://www.sciencedirect.com/user/identity/landing?code=jGe-vRhQMwishoa6V5yfEZklFkX62_14laUrwDwC&state=retryCounter%3D0%26csrfToken%3D2383bc0d-36f5-4667-a650-d8dcad41ddfd%26idpPolicy%3Durn%253Acom%253Aelsevier%253Aidp%253Apolicy%253Aproduct%253Ainst_assoc%26returnUrl%3D%252Fscience%252Farticle%252Fpii%252FS0165032723004305%26prompt%3Dnone%26cid%3Darp-774054fb-f3de-4710-9b5d-0c915f0a68d3"
+            },
+            {
+              "src": "/images/featuredImages/img_1.png",
+              "caption": "Lorem ipsum dolor sit amet, consectetur adipiscing elit-2.",
+              "link": "https://www.sciencedirect.com/user/identity/landing?code=jGe-vRhQMwishoa6V5yfEZklFkX62_14laUrwDwC&state=retryCounter%3D0%26csrfToken%3D2383bc0d-36f5-4667-a650-d8dcad41ddfd%26idpPolicy%3Durn%253Acom%253Aelsevier%253Aidp%253Apolicy%253Aproduct%253Ainst_assoc%26returnUrl%3D%252Fscience%252Farticle%252Fpii%252FS0165032723004305%26prompt%3Dnone%26cid%3Darp-774054fb-f3de-4710-9b5d-0c915f0a68d3"
+            },
+            {
+              "src": "/images/featuredImages/img_2.png",
+              "caption": "Lorem ipsum dolor sit amet, consectetur adipiscing elit-3.",
+              "link": "https://www.sciencedirect.com/user/identity/landing?code=jGe-vRhQMwishoa6V5yfEZklFkX62_14laUrwDwC&state=retryCounter%3D0%26csrfToken%3D2383bc0d-36f5-4667-a650-d8dcad41ddfd%26idpPolicy%3Durn%253Acom%253Aelsevier%253Aidp%253Apolicy%253Aproduct%253Ainst_assoc%26returnUrl%3D%252Fscience%252Farticle%252Fpii%252FS0165032723004305%26prompt%3Dnone%26cid%3Darp-774054fb-f3de-4710-9b5d-0c915f0a68d3"
+            }
           ],
-          "content": [
-            ""
+          "title": "Dysfunction of GluN3A subunit is involved in depression-like behaviors through synaptic deficits",
+          "abstract": "GluN3A, an inhibitory subunit of N-methyl-d-aspartate receptors (NMDARs), plays an unclear role in depression. In this study, we examined GluN3A expression in a chronic restraint stress (CRS) mouse model of depression and explored its molecular mechanisms. We found that GluN3A expression was significantly reduced in the hippocampus of CRS mice, and restoring GluN3A expression alleviated depression-like behaviors. Furthermore, GluN3A knockout (KO) mice exhibited symptoms of anhedonia and despair, alongside downregulation of genes involved in synapse and axon development. Reduced PSD95 levels in GluN3A KO mice were rescued by viral re-expression of GluN3A, highlighting its crucial role in regulating synaptic function and depression-related behaviors. Despite these findings, the full mechanism by which GluN3A contributes to depression remains unclear.",
+          "buttons": [
+            {
+              "name": "PDF",
+              "logo": "",
+              "link": "https://www.sciencedirect.com/user/identity/landing?code=jGe-vRhQMwishoa6V5yfEZklFkX62_14laUrwDwC&state=retryCounter%3D0%26csrfToken%3D2383bc0d-36f5-4667-a650-d8dcad41ddfd%26idpPolicy%3Durn%253Acom%253Aelsevier%253Aidp%253Apolicy%253Aproduct%253Ainst_assoc%26returnUrl%3D%252Fscience%252Farticle%252Fpii%252FS0165032723004305%26prompt%3Dnone%26cid%3Darp-774054fb-f3de-4710-9b5d-0c915f0a68d3"
+            },
+            {
+              "name": "CODE",
+              "logo": "",
+              "link": "https://github.com/MMeowhite/Profile_Website_Template"
+            },
+            {
+              "name": "Video",
+              "logo": "",
+              "link": "https://www.bilibili.com"
+            }
           ]
         },
-        "second_paragraph": {
-          "title": [
-            "Second_title..."
+        {
+          "authors": " MMeowhite ",
+          "date": "66666",
+          "journal": "Nature",
+          "featuredImages": [
+            {
+              "src": "/images/featuredImages/img.png",
+              "caption": "Lorem ipsum dolor sit amet, consectetur adipiscing elit-1."
+            },
+            {
+              "src": "/images/featuredImages/img_1.png",
+              "caption": "Lorem ipsum dolor sit amet, consectetur adipiscing elit-2."
+            },
+            {
+              "src": "/images/featuredImages/img_2.png",
+              "caption": "Lorem ipsum dolor sit amet, consectetur adipiscing elit-3."
+            }
           ],
-          "content": [
-            "Hello, World2"
-          ]
-        },
-        "Third_paragraph": {
-          "title": [
-            "Third_title..."
-          ],
-          "content": [
-            "Hello, World3"
+          "title": "Here is your paper title2",
+          "abstract": "here is your paper abstract2",
+          "buttons": [
+            {
+              "name": "PDF",
+              "link": ""
+            },
+            {
+              "name": "CODE",
+              "link": ""
+            }
           ]
         }
-      }
+      ]
     },
-    "skill": {
-      "icons": "",
-      "widgets": ""
+    "experience": {
+      "education": [
+        {
+          "university": {
+           "name": "Chongqing Medical University",
+           "url": "https://www.cqmu.edu.cn/"
+          },
+          "time": "September 2018 - July 2023",
+          "major": "Bachelor of Medicine in Medical Imaging (Radiology and Diagnostic Technology)",
+          "GPA": "3.6 / 5.0",
+          "course": "Medical Imaging and Diagnostic Radiology, Ultrasound Diagnostics, Interventional Radiology, Nuclear Medicine, Internal Medicine, Surgery, Obstetrics and Gynecology, Pediatrics, Physiology, Biochemistry and Molecular Biology, Pathology, Immunology, and Cell Biology"
+        },
+        {
+          "university": {
+            "name": "Sichuan university",
+            "url": "https://www.scu.edu.cn/"
+          },
+          "time": "July 2023 - Present",
+          "major": "Master of Medicine in Basic Medicine (Chemistry and Molecular Biology)",
+          "GPA": "3.6 / 4.0",
+          "course": "The Basic Cellular and Molecular Principles of Pathogenesis, Medical Molecular Biology, Medicinal Biotechnology Frontier, Seperation and Purification Technology of Protein and Enzyme, Nucleic Acid Molecular Cloning Technique, Practical Histological Technique"
+        }
+      ],
+      "internshipsAndVolunteering": [
+        {
+          "location":{
+            "name": "The Beibei Affiliated Hospital of Chongqing Medical University",
+            "url": "https://www.cq9yuan.com/"
+          },
+          "time": "Jan 2022 - Jun 2022",
+          "work": "Medical Imaging and Diagnostic Radiology, Ultrasound Diagnostics, Interventional Radiology, Nuclear Medicine, Internal Medicine, Surgery, Obstetrics and Gynecology, Pediatrics, Physiology, Biochemistry and Molecular Biology, Pathology, Immunology, and Cell Biology"
+        },
+        {
+          "location": {
+            "name": "The Second Affiliated Hospital of Chongqing Medical University",
+            "url": "https://www.sahcqmu.com/"
+          },
+          "time": "Jun 2022 - Jan 2023",
+          "work": "Medical Imaging and Diagnostic Radiology, Ultrasound Diagnostics, Interventional Radiology, Nuclear Medicine, Internal Medicine, Surgery, Obstetrics and Gynecology, Pediatrics, Physiology, Biochemistry and Molecular Biology, Pathology, Immunology, and Cell Biology"
+        },
+        {
+          "location": {
+            "name": "The University-Town Affiliated Hospital of Chongqing Medical University",
+            "url": "http://www.uhcmu.com/"
+          },
+          "time": "Jan 2023 - Jun 2023",
+          "work": "Medical Imaging and Diagnostic Radiology, Ultrasound Diagnostics, Interventional Radiology, Nuclear Medicine, Internal Medicine, Surgery, Obstetrics and Gynecology, Pediatrics, Physiology, Biochemistry and Molecular Biology, Pathology, Immunology, and Cell Biology"
+        }
+      ],
+      "researchProjects" : [
+        {
+          "time": "Jan 2020 - Jan 2022",
+          "location": {
+            "name": "Institute Brain Science and Disease of Chongqing Medical University",
+            "url": "https://brain.cqmu.edu.cn/index.htm"
+          },
+          "directors": [
+            {
+              "name": "Assoc.Prof.Xiu Yun",
+              "link": "https://brain.cqmu.edu.cn/info/1026/1632.htm"
+            }
+          ],
+          "work": "Hello! I'm Baimiaomiao, a researcher and educator at Sichuan University. My expertise lies in medicine, bioinformatics, mathematics, and physics, with a focus on leveraging computational techniques to solve biomedical challenges. Passionate about interdisciplinary research, I aim to bridge the gap between technology and healthcare to drive innovation. Welcome to my website, where I share my work, ideas, and ongoing projects. Let's connect and explore new possibilities together!Hello! I'm Baimiaomiao, a researcher and educator at Sichuan University. My expertise lies in medicine, bioinformatics, mathematics, and physics, with a focus on leveraging computational techniques to solve biomedical challenges. Passionate about interdisciplinary research, I aim to bridge the gap between technology and healthcare to drive innovation. Welcome to my website, where I share my work, ideas, and ongoing projects. Let's connect and explore new possibilities together!Hello! I'm Baimiaomiao, a researcher and educator at Sichuan University. My expertise lies in medicine, bioinformatics, mathematics, and physics, with a focus on leveraging computational techniques to solve biomedical challenges. Passionate about interdisciplinary research, I aim to bridge the gap between technology and healthcare to drive innovation. Welcome to my website, where I share my work, ideas, and ongoing projects. Let's connect and explore new possibilities together!"
+        },
+        {
+          "location": {
+            "name": "West China school of Basic Medical Sciences & Forensic Medicine of Sichuan University",
+            "url": "https://jcfy.scu.edu.cn/"
+          },
+          "time": "",
+          "directors": [
+            {
+              "name": "Prof.Canhua Huang",
+              "link": "http://hcanhua.cn/"
+            }
+          ],
+          "work": "Coming Soon..."
+        },
+        {
+          "location": {
+            "name": "State Key Laboratory of Biotherapy of Sichuan University / Frontiers Medical Center, Tianfu Jincheng Laboratory",
+            "url": "https://sklb.scu.edu.cn/index.html",
+            "url2": "http://www.tfjcl.ac.cn/#/home",
+            "logo": "",
+            "director": [
+              {
+                "name": "Prof.Canhua Huang",
+                "link": "http://hcanhua.cn/"
+              }
+            ]
+          },
+          "time": "",
+          "work": "Coming Soon..."
+        }
+      ],
+      "skills": [
+        {
+         "field": "Computer Science",
+         "list": {
+           "Programming Languages": "C, Java, Linux, Python, R, MATLAB, Javascript, MySQL",
+           "Framework and libraries": {
+             "Bioinformatics": [
+               "RNA-Seq quality control and data preprocessing: Trimming, Filtering, Alignment (STAR, HISAT2)",
+               "Variant calling and annotation: SNPs, Indels, CNVs",
+               "Bulk RNA-seq: Differential gene expression analysis, Alternative splicing analysis, GO/KEGG/GSEA enrichment analysis",
+               "Single-cell RNA-Seq analysis (scRNA-Seq): Seurat V5, Monocle, Scanpy, Celltree",
+               "Visualization of omics data: Heatmaps, Volcano plots, PCA, t-SNE, UMAP, Circos plots",
+               "Multi-omics data integration analysis: WGS, WES, GWAS, RNA-Seq, ChIP-Seq, ATAC-seq, Metabolomics, Proteomics",
+               "Machine learning in bioinformatics: Predictive models, Clustering algorithms (K-means, Hierarchical)"
+             ],
+             "Web development": "Full stack development: React, Bootstrap, Flask, Node.js"
+           }
+         }
+        },
+        {
+          "field": "Medicine",
+          "list": {
+            "Clinical Skills": "History taking, Physical Examination, Vital Signs Monitoring, Emergency Skills etc.",
+            "Molecular Biology Techniques": "qPCR, Western Blot, ELISA, RNAi, In Situ Hybridization",
+            "Cell Biology Techniques": "Cell Culture and Transfection, Organoid Culture, Immunofluorescence, Flow Cytometry",
+            "Animal Models": "Mouse Tumor Models Construction, Pharmacological Studies",
+            "Scientific Writing": "Scientific Paper Writing, Literature Review, Research Proposal Preparation"
+          }
+        }
+      ],
+      "awardsAndHonors": [
+        {
+          "name": "Third-Class Scholarship for Advanced Individual in Technological Innovation",
+          "unit": "Chongqing Medical University",
+          "time": "September 2022",
+          "desc": "Awarded for <b>leadership in \"The 2020 University Innovation Experiment Project\" on NMDA receptor NR3A knockout mice</b> and <b>contributions to the \"Sky Project in School of Life Sciences\" on the role of NR3A in depression molecular mechanism</b>, as well as for winning the <b>Excellence Award in \"The 8th Concept Cup at Chongqing Medical University\" for research proposal design on m6A methylation in autism mechanism</b>."
+        }
+      ]
     },
-    "research": {
-      "icons": "",
-      "widgets": ""
+    "projects": {
+      "title": "Selected Projects",
+      "desc": "I enjoy making things. Here are a selection of projects that I have worked on over the years.",
+      "list": [
+        {
+          "img": "/images/projects/img.png",
+          "title": "Python project",
+          "url": "https://www.bilibili.com/",
+          "desc": "This is the python project published in github website",
+          "time": "Jan 1, 2025"
+        },
+        {
+          "img": "/images/projects/img_1.png",
+          "title": "Pytorch project",
+          "url": "https://www.bilibili.com/opus/914638849347420177?from=search&spm_id_from=333.337.0.0",
+          "desc": "This is the Pytorch project",
+          "time": "Oct 25, 2022"
+        },
+        {
+          "img": "/images/projects/img_2.png",
+          "title": "Python project",
+          "url": "https://www.bilibili.com/",
+          "desc": "This is the python project published in github website",
+          "time": "Jan 1, 2025"
+        },
+        {
+          "img": "/images/projects/img_2.png",
+          "title": "Python project",
+          "url": "https://www.bilibili.com/",
+          "desc": "This is the python project published in github website",
+          "time": "Jan 1, 2025"
+        }
+      ]
     },
-    "more": {
-      "icons": "",
-      "widgets": ""
-    }
+    "publication": {},
+    "blog": {}
   },
   "widgets": {
     "navbar": {
       "item1": {
-        "name": "home",
+        "name": "Home",
         "link": "#home"
       },
       "item2": {
-        "name": "about",
-        "link": "#about"
+        "name": "Education",
+        "link": "#education"
       },
       "item3": {
-        "name": "skill",
-        "link": "#skill"
+        "name": "Experience",
+        "link": "#experience"
       },
       "item4": {
-        "name": "contact",
-        "link": "#contact"
+        "name": "Publication",
+        "link": "#publication"
+      },
+      "item6" : {
+        "name": "CV",
+        "link": "#cv"
       },
       "item5": {
-        "name": "research",
-        "link": "#research"
+        "name": "Contact",
+        "link": "#contact"
       }
     },
 
     "topNavBar": [
       {
-        "title": "Welcome To My Home!(Still developing)",
+        "title": "MMeowhite",
         "link": [
           {
             "name": "Bio",
             "link": "/"
           },
           {
-            "name": "experience",
-            "link": "/"
+            "name": "Experience",
+            "link": "/experience"
           },
           {
-            "name": "research",
-            "link": "/"
+            "name": "Publication",
+            "link": "/publication"
           },
           {
-            "name": "publication",
-            "link": "/"
+            "name": "Projects",
+            "link": "/projects"
           },
           {
-            "name": "blog",
+            "name": "Blog",
             "link": "/blog"
           }
         ]
       }
     ],
-
-    "floatBtn": {
-      "icon": "/path/to/icon"
-    },
 
     "iconNavComponent": [
       {
@@ -144,11 +416,6 @@
         "type": "youtube",
         "icon": "/images/link_icon/youtube.svg",
         "link": "https://www.youtube.com/@pengmiao-bmm"
-      },
-      {
-        "type": "bluesky",
-        "icon": "/images/link_icon/bluesky.svg",
-        "link": "https://bsky.app/profile/mmeowhite.bsky.social"
       }
     ]
   }
