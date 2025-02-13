@@ -1,5 +1,5 @@
 {
-  "website_title": "Cat",
+  "websiteTitle": "MMeowhite",
   "markdown": "/2024_11.md",
   "references": "/references.bib",
   "pages": {
@@ -8,10 +8,18 @@
         "init": "/images/avatar_init.jpg",
         "hovered": "/images/avatar_hover.jpg"
       },
-      "name": "MMeowhite",
+      "name": {
+        "nickName": "MMeowhite",
+        "realName": "(Peng, Miao)"
+      },
       "institution": "Sichuan University",
       "field": "MEDICINE / COMPUTER SCIENCE / MATHEMATICS / PHYSICS",
-      "profile": "Hello! I'm Baimiaomiao, a researcher and educator at Sichuan University. My expertise lies in medicine, bioinformatics, mathematics, and physics, with a focus on leveraging computational techniques to solve biomedical challenges. Passionate about interdisciplinary research, I aim to bridge the gap between technology and healthcare to drive innovation. Welcome to my website, where I share my work, ideas, and ongoing projects. Let's connect and explore new possibilities together!Hello! I'm Baimiaomiao, a researcher and educator at Sichuan University. My expertise lies in medicine, bioinformatics, mathematics, and physics, with a focus on leveraging computational techniques to solve biomedical challenges. Passionate about interdisciplinary research, I aim to bridge the gap between technology and healthcare to drive innovation. Welcome to my website, where I share my work, ideas, and ongoing projects. Let's connect and explore new possibilities together!Hello! I'm Baimiaomiao, a researcher and educator at Sichuan University. My expertise lies in medicine, bioinformatics, mathematics, and physics, with a focus on leveraging computational techniques to solve biomedical challenges. Passionate about interdisciplinary research, I aim to bridge the gap between technology and healthcare to drive innovation. Welcome to my website, where I share my work, ideas, and ongoing projects. Let's connect and explore new possibilities together!",
+      "greeting" : {
+        "img": "/images/featuredImages/img.png",
+        "title": "Hello, I'm MMeowhite (Peng, Miao)",
+        "subtitle": "I'd like to say something...",
+        "profile": "Hi! I am MMeowhite, a second-year Master's student advised by Professor Canhua Huang in State Key Laboratory of Biotherapy at Sichuan University. My major is all of things in the world. <br/><br/>My goal is to push the boundaries of human knowledge and capabilities in Medicine, Computer Science, Mathematics, and Physics. I aspire to develop innovative and intelligent solutions that integrate principles from these fields to tackle complex real-world challenges. Specifically, I am interested in exploring methods that effectively and efficiently leverage multimodal data, advanced computational models, and mathematical frameworks to enhance understanding, decision-making, and problem-solving in science and healthcare. I am also passionate about discovering new interdisciplinary approaches that drive meaningful advancements.<br/><br/> News: I am currently researching on cancer neuroscience. Actively looking for communication and collaboration!"
+      },
       "quote": "What hinders learning is absolutely not the difficulty of the knowledge itself, but the unreasonable design of the learning gradient and the lack of prerequisite knowledge.",
       "experienceSection": {
         "title": "Education",
@@ -112,6 +120,7 @@
             }
           ],
           "title": "Dysfunction of GluN3A subunit is involved in depression-like behaviors through synaptic deficits",
+          "url": "https://www.sciencedirect.com/user/identity/landing?code=jGe-vRhQMwishoa6V5yfEZklFkX62_14laUrwDwC&state=retryCounter%3D0%26csrfToken%3D2383bc0d-36f5-4667-a650-d8dcad41ddfd%26idpPolicy%3Durn%253Acom%253Aelsevier%253Aidp%253Apolicy%253Aproduct%253Ainst_assoc%26returnUrl%3D%252Fscience%252Farticle%252Fpii%252FS0165032723004305%26prompt%3Dnone%26cid%3Darp-774054fb-f3de-4710-9b5d-0c915f0a68d3",
           "abstract": "GluN3A, an inhibitory subunit of N-methyl-d-aspartate receptors (NMDARs), plays an unclear role in depression. In this study, we examined GluN3A expression in a chronic restraint stress (CRS) mouse model of depression and explored its molecular mechanisms. We found that GluN3A expression was significantly reduced in the hippocampus of CRS mice, and restoring GluN3A expression alleviated depression-like behaviors. Furthermore, GluN3A knockout (KO) mice exhibited symptoms of anhedonia and despair, alongside downregulation of genes involved in synapse and axon development. Reduced PSD95 levels in GluN3A KO mice were rescued by viral re-expression of GluN3A, highlighting its crucial role in regulating synaptic function and depression-related behaviors. Despite these findings, the full mechanism by which GluN3A contributes to depression remains unclear.",
           "buttons": [
             {
@@ -162,7 +171,8 @@
             }
           ]
         }
-      ]
+      ],
+      "cv": "/el1.pdf"
     },
     "experience": {
       "education": [
@@ -403,14 +413,14 @@
         "link": "https://github.com/MMeowhite"
       },
       {
-        "type": "linkedin",
-        "icon": "/images/link_icon/linkedin.svg",
-        "link": "https://www.linkedin.com/in/peng-miao-89324a341/"
-      },
-      {
         "type": "google_scholar",
         "icon": "/images/link_icon/googlescholar.svg",
         "link": "https://scholar.google.com/citations?user=Y5lz1jMAAAAJ&hl=en"
+      },
+      {
+        "type": "linkedin",
+        "icon": "/images/link_icon/linkedin.svg",
+        "link": "https://www.linkedin.com/in/peng-miao-89324a341/"
       },
       {
         "type": "youtube",
